@@ -1,4 +1,33 @@
-site_name: Yifan's Homepage
+site_name: 钒钒的赛博小屋 | Yifan's Homepage
 theme:
   name: material
+
+  icon:
+    logo: material/github
+    
+  language: zh
+
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+
+copyright: Copyright @ 2025 Mr.J.Y.WU All Right Reserved
+
+
+
+nav:
+  - 首页:
+    - 维护声明: 首页/维护声明.md
+    - 关于钒钒: 首页/关于钒钒.md
+  - 坡岛生活:
+    - 吃在坡岛: 首页/关于钒钒.md
+    - 学在坡岛: 首页/关于钒钒.md
+    - 轮上坡岛: 首页/关于钒钒.md
+  - 我与翼神:
+    - 我与翼神: 首页/关于钒钒.md
+    - 美图展示: 首页/关于钒钒.md
+  - 情感日记: 首页/关于钒钒.md
+  
+
     
