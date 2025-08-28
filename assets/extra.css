@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "MyCustomFont";
+    src: url("assets/fonts/xwwk.ttf") format("truetype");
+}
+
+:root {
+    --md-text-font-family: "MyCustomFont", sans-serif;
+}
