@@ -1,9 +1,4 @@
-body {
-      /*font-family: "LXGW WenKai", sans-serif;*/
-      /* Lite version */
-      font-family: "LXGW WenKai Lite", sans-serif;
-      /* TC version */
-      /* font-family: "LXGW WenKai TC", sans-serif; */
-      /* Screen version */
-      /* font-family: "LXGW WenKai Screen", sans-serif; */
-    }
+:root {
+    --md-text-font-family: "Poppins", sans-serif;  /* 內文字體 */
+    --md-code-font-family: "Fira Code", monospace; /* 程式碼字體 */
+}
